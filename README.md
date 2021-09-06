@@ -37,7 +37,8 @@ https://mp.weixin.qq.com/s/W3PDnWXH3YiwGdVfUOZmSA
 * 解密蓝牙mesh系列  
   https://blog.csdn.net/coldrainbow/article/details/108621819?utm_medium=distribute.pc_feed_404.none-task-blog-2~default~BlogCommendFromBaidu~default-6.nonecase&depth_1-utm_source=distribute.pc_feed_404.none-task-blog-2~default~BlogCommendFromBaidu~default-6.nonecas  
 
-
+* 一文看懂蓝牙Mesh技术  
+  https://blog.csdn.net/coldrainbow/article/details/108622384  
 
 
 
