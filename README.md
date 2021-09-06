@@ -36,6 +36,7 @@ https://mp.weixin.qq.com/s/W3PDnWXH3YiwGdVfUOZmSA
 
 * 解密蓝牙mesh系列  
   * https://blog.csdn.net/coldrainbow/article/details/108621819?utm_medium=distribute.pc_feed_404.none-task-blog-2~default~BlogCommendFromBaidu~default-6.nonecase&depth_1-utm_source=distribute.pc_feed_404.none-task-blog-2~default~BlogCommendFromBaidu~default-6.nonecas  
+  * https://blog.csdn.net/qinrenzhi/article/details/82228112?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522163091371316780271575131%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=163091371316780271575131&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_v2~rank_v29-4-82228112.pc_search_result_hbase_insert&utm_term=%E8%A7%A3%E5%AF%86%E8%93%9D%E7%89%99mesh%E7%B3%BB%E5%88%97&spm=1018.2226.3001.4187  
   * https://mp.weixin.qq.com/s/bmFXm4Fh9dxJcwU9GZdUEQ  
 
 * 一文看懂蓝牙Mesh技术  
