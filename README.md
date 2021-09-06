@@ -25,6 +25,7 @@ https://mp.weixin.qq.com/s/W3PDnWXH3YiwGdVfUOZmSA
 
 * 蓝牙  
   https://blog.csdn.net/qinrenzhi/category_7029327.html  
+  https://blog.csdn.net/z497544849/category_6644009.html  
   
 * 低功耗蓝牙和经典蓝牙的区别  
   https://blog.csdn.net/huangliniqng/article/details/82084088  
