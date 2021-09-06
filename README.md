@@ -23,6 +23,14 @@ https://mp.weixin.qq.com/s/W3PDnWXH3YiwGdVfUOZmSA
 
 ## BEL MESH
 
+* 蓝牙  
+  https://blog.csdn.net/qinrenzhi/category_7029327.html  
+  
+* 低功耗蓝牙和经典蓝牙的区别  
+  https://blog.csdn.net/huangliniqng/article/details/82084088  
+  http://www.elecfans.com/tongxin/rf/20180604689413.html  
+  https://www.sohu.com/a/443283646_120070959  
+  
 * Ble低功耗蓝牙和蓝牙mesh网络之间的区别与关系  
   https://blog.csdn.net/qq_24179601/article/details/85262391  
   https://blog.csdn.net/Lenzetech/article/details/92763606?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0.no_search_link&spm=1001.2101.3001.4242  
