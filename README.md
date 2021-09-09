@@ -18,6 +18,12 @@ https://mp.weixin.qq.com/s/W3PDnWXH3YiwGdVfUOZmSA
 * 蓝牙Mesh与ZigBee技术对比  
   https://zhuanlan.zhihu.com/p/136242988  
   https://www.zhihu.com/question/406116943/answer/1339808455  
+  
+* 一些Zigbee的学习资料  
+  https://github.com/MarkDing/IoT-Developer-Boot-Camp/wiki/Zigbee  
+  
+* 火星物联（技术分享）蓝牙Mesh与ZigBee技术对比   
+  https://zhuanlan.zhihu.com/p/393211805  
 
 ---
 
