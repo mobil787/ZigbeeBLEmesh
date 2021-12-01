@@ -10,3 +10,10 @@
    * https://blog.csdn.net/kevinhg/article/details/6205456?spm=1001.2101.3001.6650.9&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-9.no_search_link&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-9.no_search_link  
    * https://blog.csdn.net/utnewbear/category_794021.html  
    * https://blog.csdn.net/utnewbear/article/details/6308451?spm=1001.2101.3001.6650.16&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-16.no_search_link&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-16.no_search_link  
+
+ * wireless-network-simulator  
+   * https://www.nsnam.org/docs/release/3.19/doxygen/mixed-wireless_8py_source.html  
+   * https://github.com/marismarcosta/wireless-network-simulator  
+   * https://networksimulationtools.com/can-i-simulate-wireless-sensor-networks-in-python/  
+   * https://www.quora.com/Can-I-simulate-wireless-sensor-networks-in-Python-If-yes-can-you-provide-the-links  
+   * https://github.com/marismarcosta/wireless-network-simulator  
