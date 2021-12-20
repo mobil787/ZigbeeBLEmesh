@@ -54,5 +54,6 @@ https://mp.weixin.qq.com/s/W3PDnWXH3YiwGdVfUOZmSA
 * 一文看懂蓝牙Mesh技术  
   https://blog.csdn.net/coldrainbow/article/details/108622384  
 
-
+* 手机蓝牙助手  
+https://blog.csdn.net/qq_16775293/article/details/77489166?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522163998277216780271937983%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=163998277216780271937983&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_v29-13-77489166.pc_v2_rank_blog_default&utm_term=Arduino&spm=1018.2226.3001.4450  
 
